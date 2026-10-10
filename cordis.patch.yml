@@ -1,0 +1,4 @@
+# dsh-instance-manager bundle patch layer.
+- insert:
+    - id: dsh-instance-manager
+      name: dsh-instance-manager
